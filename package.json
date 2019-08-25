@@ -1,0 +1,24 @@
+{
+  "name": "olyp",
+  "version": "1.0.0",
+  "description": "olyp",
+  "main": "olyp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phong-et/olyp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phong-et/olyp/issues"
+  },
+  "homepage": "https://github.com/phong-et/olyp#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "ws": "^7.1.2"
+  }
+}
